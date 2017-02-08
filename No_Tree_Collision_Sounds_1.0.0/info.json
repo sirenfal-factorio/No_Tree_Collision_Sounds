@@ -1,0 +1,9 @@
+{
+	"name": "No_Tree_Collision_Sounds",
+	"version": "1.0.0",
+	"title": "No Tree Collision Sounds",
+	"author": "Sirenfal",
+	"description": "Removes vehicle impact sounds from trees.",
+	"dependencies": ["base"],
+	"factorio_version": "0.14.0"
+}
